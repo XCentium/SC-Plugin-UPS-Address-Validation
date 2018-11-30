@@ -12,7 +12,7 @@ namespace Sitecore.Commerce.Plugin.UpsAddressValidation.Policies
 
         public UpsAddressValidationPolicy()
         {
-            UserName = "xxxxxx";
+            UserName = "xxxxxxx";
             Password = "xxxxxxx";
             LicenseKey = "xxxxxxx";
             ProdUrl = "https://onlinetools.ups.com/rest/XAV";
