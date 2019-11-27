@@ -1,5 +1,5 @@
 ﻿
-Sitecore Commerce Engine UPS Address Validation plugin (Sitecore Commerce 9)
+Sitecore Commerce Engine UPS Address Validation plugin (Sitecore Experience Commerce 9.1)
 ======================================
 
 This plugin allows validating shipping address or billing address to make product delivery a good experience
